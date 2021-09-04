@@ -8,4 +8,4 @@ Nice to e-meet you.
 
 - **Languages:** Go & Javascript 🥇
 - **Learning:** Currently i learn cloud architecture ☁️
-- **My Goals:** I want to have a product to help many people 🧑‍🤝‍🧑. Pray for me please hahaha 😆
+- **My Goals:** I want to complete my product with my team 🫂 to help many people 🧑‍🤝‍🧑. Pray for me and my team please hahaha 😆
