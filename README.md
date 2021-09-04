@@ -7,5 +7,5 @@ Currently I'm working on Blue Bird Group :blue_car:
 Nice to e-meet you.
 
 - **Languages:** Go 🥇 & Javascript (React Native) 🥈
-- **Learning:** Currently I'm learning cloud architecture ☁️
+- **Learning:** Currently I'm learning cloud architecture 🌩️
 - **My Goals:** I want to complete my product with my team 🫂 to help many people 🧑‍🤝‍🧑. Pray for me and my team please hahaha 😆
