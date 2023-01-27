@@ -8,6 +8,6 @@ My name is Muhammad Rivaldy and I'm a Software Engineer :technologist:
 Currently I'm working on Blue Bird Group :blue_car:
 Nice to e-meet you.
 
-- **Languages:** Go 🥇 & Javascript (React Native) 🥈
+- **Languages:** Go 🥇, PHP 🥈 & Javascript 🥉️
 - **Learning:** Currently I'm learning cloud architecture 🌩️
 - **My Goals:** I want to complete my product with my team :night_with_stars: to help many people 🧑‍🤝‍🧑. Pray for me and my team please hahaha 😆
