@@ -5,7 +5,7 @@
 Don't forget to say Hello world :earth_asia:
 
 My name is Muhammad Rivaldy and I'm a Software Engineer :technologist:
-Currently I'm working for POS Malaysia 📦
+Currently I'm working for POS Malaysia
 Nice to e-meet you.
 
 - **Languages:** Go 🥇, PHP 🥈 & Javascript 🥉️
